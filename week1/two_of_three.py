@@ -12,6 +12,4 @@ def two_of_three(a, b, c):
     50
     """
     d = min(a, b, c)
-    return a**2 + b**2 + c**2 - d**2
-    
-print(two_of_three(5,5,5))
+    print(a**2 + b**2 + c**2 - d**2)
