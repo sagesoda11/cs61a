@@ -24,6 +24,5 @@ def hailstone(n):
       count += 1
     print("length = " + str(count)) #?
 
-num = int(input("Enter a number: "))
-   
+num = int(input("Enter a number: "))   
 hailstone(num)
