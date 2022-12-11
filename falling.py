@@ -17,5 +17,3 @@ def falling(n, k):
       product = product*(n-i+1)
       i += 1
     print(product)
-    
-falling(7,3)
